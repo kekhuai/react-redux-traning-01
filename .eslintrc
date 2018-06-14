@@ -5,3 +5,7 @@ rules:
     - extensions:
       - .js
       - .jsx
+  no-console:
+    off
+env:
+  browser: true
